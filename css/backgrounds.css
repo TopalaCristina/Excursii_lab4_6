@@ -1,0 +1,41 @@
+
+#bg1 {
+  background-image: url(img/ame.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+  margin: 0 auto;
+}
+
+#bg2 {
+	  background-image: url(img/ofertbg.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+#bg3 {
+
+	  background-image: url(img/mold.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+#bg4 {
+	  background-image: url(img/sky.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+#more {display: none;}
+
